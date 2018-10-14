@@ -18,6 +18,11 @@ __pycache__/
 人骑车数据集 
 人骑车数据集.rar
 
+#model
+logs/
+*/logs/
+
+
 #tmp file
 tmp/
 .tmp/
